@@ -1,0 +1,14 @@
+body {
+	background: #eee;
+	}
+#outer-wrapper {
+	position: relative;
+	margin: 0 auto;
+	background: #fff;
+	padding: 10px;
+	overflow: hidden;
+	box-shadow: 0 0 0 20px rgba(0,0,0,0.02);
+}
+.wait-text {
+	font-family: 'Product Sans', Arial, sans-serif;
+}
